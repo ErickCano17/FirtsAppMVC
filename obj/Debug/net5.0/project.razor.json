@@ -15654,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Erick Cano\\paginaweb\\firstAPP\\Views\\Shared\\_Library.cshtml",
+      "TargetPath": "Views\\Shared\\_Library.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Erick Cano\\paginaweb\\firstAPP\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"

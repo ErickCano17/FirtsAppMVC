@@ -18,7 +18,7 @@ namespace firstAPP.Controllers
       personal personal = new personal();
         personal.name = "Erick";
         personal.lastname = "Cano";
-        personal.age = 30;
+        personal.age = 19;
 
         return View(personal);
         

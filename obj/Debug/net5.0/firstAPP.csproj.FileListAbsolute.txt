@@ -39,3 +39,4 @@ C:\Users\Erick Cano\paginaweb\firstAPP\obj\Debug\net5.0\firstAPP.pdb
 C:\Users\Erick Cano\paginaweb\firstAPP\obj\Debug\net5.0\firstAPP.genruntimeconfig.cache
 C:\Users\Erick Cano\paginaweb\firstAPP\obj\Debug\net5.0\firstAPP.csproj.CopyComplete
 C:\Users\Erick Cano\paginaweb\firstAPP\obj\Debug\net5.0\Razor\Views\personal\index.cshtml.g.cs
+C:\Users\Erick Cano\paginaweb\firstAPP\obj\Debug\net5.0\Razor\Views\Shared\_Library.cshtml.g.cs
